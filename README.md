@@ -1,4 +1,4 @@
-# AI RAG Backend System
+# AI RAG Production
 
 A production-oriented **Retrieval Augmented Generation (RAG) backend** built with FastAPI, OpenAI models, document processing, embeddings, vector search, and structured retrieval pipelines.
 
