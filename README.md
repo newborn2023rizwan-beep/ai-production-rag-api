@@ -1,4 +1,5 @@
-# AI RAG Production
+# ai-production-rag-api
+
 
 A production-oriented **Retrieval Augmented Generation (RAG) backend** built with FastAPI, OpenAI models, document processing, embeddings, vector search, and structured retrieval pipelines.
 
@@ -10,7 +11,7 @@ This system provides the **intelligence layer** for AI knowledge assistants that
 
 Traditional AI applications generate responses primarily from the knowledge already available inside the language model.
 
-The **AI RAG Backend System** adds an external knowledge retrieval layer between the user and the AI model.
+The **ai-production-rag-api** adds an external knowledge retrieval layer between the user and the AI model.
 
 Instead of sending a question directly to an LLM, the system first searches the application's knowledge base, retrieves the most relevant information, builds contextual prompts, and then sends that context to the LLM for response generation.
 
