@@ -5,6 +5,9 @@ A production-oriented **Retrieval Augmented Generation (RAG) backend** built wit
 
 This system provides the **intelligence layer** for AI knowledge assistants that need to answer questions using private documents, business knowledge, and domain-specific information rather than relying only on an LLM's pretrained knowledge.
 
+Link
+https://youtu.be/ywVpE9M7lWg
+
 ---
 
 # 1. Introduction
